@@ -1,0 +1,17 @@
+[
+    {
+    "id": "1",    
+    "password": "Test1234",    
+    "username": "rde_pena@gmail.com"
+   },
+   {
+    "id": "2",    
+    "password": "Admin123",    
+    "username": "rde_pena@hotmail.com"
+   },
+   {
+    "id": "3",    
+    "password": "Ninguna123",    
+    "username": "rdpena@outlook.com"
+   }
+]
